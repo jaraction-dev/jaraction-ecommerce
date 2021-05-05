@@ -13,6 +13,12 @@
     <!-- Stylesheets -->
     <link rel="stylesheet" href="views/css/plugins/bootstrap.min.css">
     <link rel="stylesheet" href="views/css/plugins/font-awesome.min.css">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" href="views/css/template.css">
+    <link rel="stylesheet" href="views/css/header.css">
 </head>
 <body>
 
