@@ -112,7 +112,7 @@
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                     </button>
                 </a>
-                <p>YOUR CART <span class="cartAmount"></span> <br> USD $ <span class="cartTotal"></span></p>
+                <p>YOUR CART <span class="cartAmount">3</span> <br> USD $ <span class="cartTotal">20</span></p>
             </div>
 
         </div>
