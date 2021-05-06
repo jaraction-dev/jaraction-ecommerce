@@ -34,5 +34,7 @@
     <script src="views/js/plugins/jquery.min.js"></script>
     <!-- Bootstrap -->
     <script src="views/js/plugins/bootstrap.min.js"></script>
+    <!-- Interaction -->
+    <script src="views/js/header.js"></script>
 </body>
 </html>

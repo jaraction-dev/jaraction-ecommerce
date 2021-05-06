@@ -69,7 +69,7 @@ header #shoppingCart p{
 }
 
 header #categories{               /*categories section*/
-    display: block;
+    display: none;
     margin-top: -10px;
     position: relative;
 }
